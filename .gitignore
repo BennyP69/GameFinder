@@ -1,2 +1,4 @@
-!.idea
-!downloads/GoogleNews-vectors-negative300.bin.gz
+.idea
+downloads/GoogleNews-vectors-negative300.bin.gz
+jupyterNotebook/
+models/
