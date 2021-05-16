@@ -335,8 +335,8 @@ steam_columns = [
 #     end=len(app_list),
 #     batchsize=1000
 # )
-
-# inspect downloaded data
+#
+# # inspect downloaded data
 steam_game_data = pd.read_csv(download_path + '/' + steam_description_data)
 steam_game_data.head()
 print("Current Sample Size: ", len(steam_game_data), "\n\n")
@@ -583,6 +583,5 @@ for game in high_similarity:
 #  - Add option to add a description; use NLP to compare similarity?
 
 # # ----------------------------------------------------------------------------------------------------------
-
 # # Other Solutions
 # Empty for now.
