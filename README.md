@@ -1,4 +1,4 @@
-# Welcome to Similar Game Finder! <br />
+# Welcome to Game Finder! <br />
 
 The goal of this project is to help indie developers find similar games 
 to that which they plan to or are currently developing, along with 
